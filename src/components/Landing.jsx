@@ -20,7 +20,7 @@ const Landing = (props) => {
                         <div>
                             <img src={logos} alt="ICON" className='w-12 mix-blend-multiply' />
                         </div>
-                        <div>FULCRUM</div>
+                        <div>FULCRUMs</div>
 
                     </div>
                     <div>
