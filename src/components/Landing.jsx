@@ -20,11 +20,11 @@ const Landing = (props) => {
                         <div>
                             <img src={logos} alt="ICON" className='w-12 mix-blend-multiply' />
                         </div>
-                        <div>FULCRUMs</div>
+                        <div>FULCRUM</div>
 
                     </div>
                     <div>
-                        <Buttons name="35 DAYS LEFT"/>
+                        <Buttons name="7 DAYS LEFT"/>
                     </div>
                 </div>
 
